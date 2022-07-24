@@ -1,0 +1,246 @@
+
+body{
+  background-color: #EDEDED;
+  font-size: 50px;
+  margin: 0;
+  text-align: center;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  color: #EFEFEF;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #EDEDED;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  color: #DA0037;
+  text-align: center;
+  padding: 24px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #444444;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #444444;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+
+
+h1{
+  margin: 50px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 0;
+  color: #171717;
+}
+h2{
+  margin: 50px;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  font-size: 50px;
+  color: #EDEDED;
+}
+h3{
+  margin: 50px;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  font-size: 35px;
+  color: #444444;
+}
+h4{
+  margin: 50px;
+  font-family: 'Albert Sans', sans-serif;
+  font-size: 20px;
+    color: #444444;
+  }
+
+.services-h2{
+  color: #EDEDED;
+}
+.service-paragraph{
+  color: #EDEDED;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.skills-h2{
+color: #DA0037;
+}
+.skills-text{
+  color: #444444;
+  text-align: left;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.portfolio-h2{
+color: #DA0037;
+}
+.get-in-touch-h2{
+color: #EDEDED;
+}
+.hire-text{
+color: #EDEDED;
+padding-left: 300px;
+padding-right: 300px;
+}
+
+
+.h4-size{
+  margin: 20px;
+}
+.top-container{
+  font-family: 'Prompt ExtraBold', sans-serif;
+  background-color: #DA0037;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EFEFEF;
+}
+
+.middle-container{
+  font-family: 'Prompt ExtraBold', sans-serif;
+  background-color: #DA0037;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EDEDED;
+}
+.middle-container-1{
+  font-family: 'Prompt ExtraBold', sans-serif;
+  background-color: #DA0037;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EFEFEF;
+}
+.middle-container-2{
+  font-family: 'Prompt ExtraBold', sans-serif;
+  background-color: #EDEDED;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EFEFEF;
+}
+.bottom-container{
+  background-color: #DA0037;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.man{
+  margin: 50px auto 50px auto;
+  padding: 30px;
+  width: 350px;
+  height: 350px;
+}
+
+.window{
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+.email{
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+.services{
+  margin: 1px auto 1px auto;
+  padding: 10px;
+  width: 120px;
+  height: 120px;
+}
+.portfolio{
+  margin: 1px auto 1px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+
+.odysseyweb{
+  color: #DA0037;
+  font-size: 200px;
+}
+hr {
+  margin: 1rem 0;
+  color: #444444;
+  border: 20;
+  border-top: 10px solid;
+  opacity: 0.50;
+}
+.color{
+  color: #DA0037;
+}
+.help{
+  color: #444444;
+  font-size: 22px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+#services{
+  color: #EDEDED;
+  scroll-behavior: smooth;
+}
+#skills{
+  color: #DA0037;
+  scroll-behavior: smooth;
+}
+#contact{
+  color: #EDEDED;
+  scroll-behavior: smooth;
+}
+.portfolio-h2{
+  font-size: 20px;
+  font-color:#DA0037;
+}
+.submit{
+  font-size: 20px;
+}
+
+.label{
+  font-size: 20px;
+}
+.here a:hover{
+color: black;
+}
+.form{
+  text-align: inherit;
+}
+
+.h4-icon{
+  text-align: center;
+  margin: 10px;
+
+}
+.h4-email{
+  text-align: center;
+  margin: 10px;
+}
+
+/* ABOUT PAGE CSS */
+.main-about-heading{
+ color: #DA0037;
+ font-size: 35px;
+}
+.main-about-text{
+color: #444444;
+font-size: 20px;
+text-align: left;
+}
+.main-about-contact{
+  color: #444444;
+}
