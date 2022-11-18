@@ -1,0 +1,271 @@
+
+
+/* BODY */
+body{
+  background-color: #EDEDED;
+  font-size: 50px;
+  margin: 0;
+  text-align: center;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  color: #EFEFEF;
+}
+/* END OF BODY */
+
+
+/* NAV */
+.topnav {
+    background-color: #EDEDED;
+    overflow: hidden;
+}
+.topnav a {
+  float: center;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  color: #DA0037;
+  text-align: center;
+  padding: 24px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #444444;
+  color: black;
+}
+.topnav a.active {
+  background-color: #444444;
+  color: white;
+}
+/* END OF NAV*/
+
+/* TITLES*/
+h1{
+  margin: 50px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 0;
+  color: #171717;
+}
+h2{
+  margin: 50px;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  font-size: 50px;
+  color: #EDEDED;
+}
+h3{
+  margin: 50px;
+  font-family: 'Prompt ExtraBold', sans-serif;
+  font-size: 35px;
+  color: #444444;
+}
+h4{
+  margin: 50px;
+  font-family: 'Albert Sans', sans-serif;
+  font-size: 20px;
+    color: #444444;
+  }
+/* END OF TITLES*/
+
+
+
+.services-h2{
+  color: #EDEDED;
+}
+.service-paragraph{
+  color: #EDEDED;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.skills-h2{
+color: #DA0037;
+}
+.skills-text{
+  color: #444444;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.portfolio-h2{
+color: #DA0037;
+}
+.get-in-touch-h2{
+color: #EDEDED;
+position: relative;
+}
+.hire-text{
+  color: #EDEDED;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+.h4-size{
+  margin: 20px;
+}
+
+.middle-container{
+  font-family: 'Prompt ExtraBold', sans-serif;
+  background: rgb(218,0,55);
+background: linear-gradient(180deg, rgba(218,0,55,1) 0%, rgba(218,0,80,1) 100%);
+  position: static;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EDEDED;
+}
+.bottom-container{
+  background: rgb(218,0,55);
+background: linear-gradient(180deg, rgba(218,0,55,1) 0%, rgba(218,0,80,1) 100%);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+/* LOGO*/
+.odysseyweb{
+  background: #444444;
+background: linear-gradient(to right, #444444 0%, #DA0037 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+font-size: 350px;
+font-weight: 700;
+
+text-shadow: 1px 1px 1px #DA0037,
+    1px 2px 1px #444444,
+    1px 3px 1px #DA0037,
+    1px 4px 1px#444444,
+    1px 5px 1px #DA0037,
+    1px 6px 1px #444444,
+    1px 7px 1px #DA0037,
+    1px 8px 1px #444444,
+    1px 9px 1px #DA0037,
+    1px 10px 1px#444444,
+1px 18px 6px rgba(68,68,68,1),
+1px 22px 10px rgba(68,68,68,1),
+1px 25px 35px rgba(68,68,68,1),
+1px 30px 60px rgba(68,68,68,1);
+
+  padding-left: 30px;
+  padding-right: 30px;
+}
+/* END OF LOGO*/
+
+
+/* ICON IMAGES*/
+.man{
+  margin: 50px auto 50px auto;
+  padding: 30px;
+  width: 350px;
+  height: 350px;
+}
+.services{
+  margin: 1px auto 1px auto;
+  padding: 10px;
+  width: 120px;
+  height: 120px;
+}
+.window{
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+.email{
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+.portfolio{
+  margin: 1px auto 1px auto;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+}
+/* END OF ICON IMAGES*/
+
+
+
+.color{
+  color: #DA0037;
+}
+.help{
+  color: #444444;
+  font-size: 22px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+/* NAV BAR JUMP TO*/
+#services{
+  color: #EDEDED;
+  scroll-behavior: smooth;
+}
+#skills{
+  color: #DA0037;
+  scroll-behavior: smooth;
+}
+#contact{
+  color: #EDEDED;
+  scroll-behavior: smooth;
+}
+/*END OF NAV BAR JUMP TO*/
+
+
+/* PORTFOLIO PAGE CSS */
+.portfolio-h2{
+  font-size: 20px;
+  font-color:#DA0037;
+}
+/* END OF PORTFOLIO PAGE CSS */
+
+
+
+.submit{
+  font-size: 20px;
+}
+
+.label{
+  font-size: 20px;
+}
+.here a:hover{
+color: black;
+}
+.form{
+  text-align: inherit;
+}
+
+.h4-icon{
+  text-align: center;
+  margin: 10px;
+
+}
+.h4-email{
+  text-align: center;
+  margin: 10px;
+}
+
+
+
+/* ABOUT PAGE CSS */
+.main-about{
+
+}
+.main-about-heading{
+ color: #DA0037;
+ font-size: 35px;
+}
+.main-about-text{
+color: #444444;
+font-size: 20px;
+text-align: left;
+}
+.main-about-contact{
+  color: #444444;
+}
+/* END OF ABOUT PAGE CSS */
